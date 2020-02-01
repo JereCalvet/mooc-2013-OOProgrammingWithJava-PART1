@@ -5,4 +5,5 @@ University of Helsinki’s massive open online course (MOOC) on object-oriented 
 MOOC 2013 OOProgramming with JAVA
 http://moocfi.github.io/courses/2013/programming-part-1/
 
+El código que realizó (la resoluci+on de los ejercicios) esta en la carpeta src (source)
  
