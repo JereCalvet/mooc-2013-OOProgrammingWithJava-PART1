@@ -38,7 +38,7 @@ public class MyDate {
         return clone;
     }
 
-    public int auxRestaFechas(MyDate fechaMin, MyDate fechaMax) {
+    public int CuentaAños(MyDate fechaMin, MyDate fechaMax) { //desde hasta
         int contadorAños = 0;
         while (fechaMin.earlier(fechaMax)) { 
             fechaMin.year++;
@@ -56,9 +56,9 @@ public class MyDate {
         MyDate fechaComparacion = date.clone();
 
         if (this.earlier(date)) {
-            return auxRestaFechas(fechaInicial, fechaComparacion); //min/max
+            return CuentaAños(fechaInicial, fechaComparacion); //min/max
         } else {
-            return auxRestaFechas(fechaComparacion, fechaInicial); //max/min
+            return CuentaAños(fechaComparacion, fechaInicial); //max/min
         }
         
         /* respuesta propuesta: la solucion propuso un algoritmo al cual llego comparando meses y dias.
