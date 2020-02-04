@@ -11,6 +11,7 @@ public class MyDate {
         this.year = vv;
     }
 
+    @Override
     public String toString() {
         return this.day + "." + this.month + "." + this.year;
     }
@@ -32,13 +33,33 @@ public class MyDate {
         return false;
     }
 
-    /*
-     * In assignment 92 method differneceInYears was added to MyDate 
-     * Copy the method here since it eases this assignment considerably.
-     */
-    public int differneceInYears(MyDate compared) {
-        return -99;
+    public MyDate clone() {
+        MyDate clone = new MyDate(this.day, this.month, this.year);
+        return clone;
+    }
+        
+    public int CuentaAños(MyDate fechaMin, MyDate fechaMax) { //desde hasta
+        int contadorAños = 0;
+        while (fechaMin.earlier(fechaMax)) { 
+            fechaMin.year++;
+            contadorAños++;
+        }
+        if (fechaMin.year == fechaMax.year && fechaMin.month == fechaMax.month && fechaMin.day == fechaMax.day) {
+            return contadorAños;
+        } else {
+            return contadorAños - 1;
+        }
     }
 
-  
+    public int differenceInYears(MyDate date) { 
+        MyDate fechaInicial = this.clone();
+        MyDate fechaComparacion = date.clone();
+
+        if (this.earlier(date)) {
+            return CuentaAños(fechaInicial, fechaComparacion); //min/max
+        } else {
+            return CuentaAños(fechaComparacion, fechaInicial); //max/min
+        }
+    }
 }
+
