@@ -1,0 +1,33 @@
+/**
+ *
+ * @author Jere
+ */
+public class Book {
+    private String title;
+    private String publisher;
+    private int year;
+
+    public String title() {
+        return title;
+    }
+    
+    public String publisher() {
+        return publisher;
+    }
+
+    public int year() {
+        return year;
+    }
+    
+    public Book(String title, String publisher, int year){
+        this.title = title;
+        this.publisher = publisher;
+        this.year = year;
+    }
+    
+    @Override
+    public String toString(){
+        return this.title+", "+this.publisher+", "+this.year;
+    }
+    
+}
