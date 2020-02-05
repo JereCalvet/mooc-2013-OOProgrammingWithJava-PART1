@@ -8,6 +8,10 @@ public class Main {
     }
 
     public static void printElegantly(int[] array) {
-        // Write code here
+        String elegantly = "";
+        for (int number : array) {
+            elegantly += number+", "; 
+        }
+        System.out.println(elegantly.substring(0, (elegantly.length()-2)));
     }
 }
