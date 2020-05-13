@@ -1,4 +1,6 @@
-
+/*
+Temas: ejercicio
+*/
 import java.util.Scanner;
 
 public class LoopsEndingRemembering {
