@@ -1,4 +1,8 @@
-
+/*
+Temas:
+    *metodos con variables propias
+    *metodos devolviendo valores
+*/
 public class Least {
 
     public static int least(int number1, int number2) {

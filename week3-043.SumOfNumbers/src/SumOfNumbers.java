@@ -1,3 +1,8 @@
+/*
+Temas:
+    *metodos con variables propias
+    *metodos devolviendo valores
+*/
 public class SumOfNumbers {
 
     public static int sum(int number1, int number2, int number3, int number4) {

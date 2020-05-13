@@ -1,4 +1,8 @@
-
+/*
+Temas:
+    *metodos con variables propias
+    *metodos devolviendo valores
+*/
 public class Greatest {
 
     public static int greatest(int number1, int number2, int number3) {

@@ -1,4 +1,8 @@
-
+/*
+Temas:
+    *metodos con variables propias
+    *metodos devolviendo valores
+*/
 public class AverageOfGivenNumbers {
     
     // implement here again the method of exercise 43
