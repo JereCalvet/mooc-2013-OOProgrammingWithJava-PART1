@@ -1,4 +1,6 @@
-
+/*
+Temas: operaciones de asignacion
+*/
 import java.util.Scanner;
 
 public class TheSumOfSetOfNumbers {
