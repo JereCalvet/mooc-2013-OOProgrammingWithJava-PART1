@@ -1,3 +1,6 @@
+/*
+Temas: operaciones basicas
+*/
 import java.util.Scanner;
 import nhlstats.NHLStatistics;
 
