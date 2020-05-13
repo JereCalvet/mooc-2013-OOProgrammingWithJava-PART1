@@ -1,3 +1,12 @@
+/*
+Temas:
+    *Strings: metodos
+    *equals
+    *length
+    *charAt
+    *subString
+    *indexOf
+*/
 import java.util.Scanner;
 
 public class TheEndPart {
