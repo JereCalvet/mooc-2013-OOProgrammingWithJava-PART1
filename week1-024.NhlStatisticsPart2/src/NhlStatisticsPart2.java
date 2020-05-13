@@ -1,4 +1,6 @@
-
+/*
+Temas: loops
+*/
 import java.util.Scanner;
 import nhlstats.NHLStatistics;
 
