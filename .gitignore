@@ -1,11 +1,7 @@
-week1-000.Sandbox/
-week1-001.Name/
-week1-002.HelloWorld/
-week1-003.Spruce/
-/week6-100.NightSky/nbproject/private/
-/week6-101.Library/nbproject/private/
-/week6-100.NightSky/build/
-/week6-100.NightSky/dist/
-/week6-101.Library/build/
-/week6-101.Library/dist/
-week1-000.Sandbox/src/Application.java
+/week1-000.Sandbox/
+/week1-001.Name/
+/week1-002.HelloWorld/
+/week1-003.Spruce/
+
+
+#git rm -r --cached /week1-001.Name/
