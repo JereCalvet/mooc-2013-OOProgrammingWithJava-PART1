@@ -1,4 +1,10 @@
-
+/*
+Temas:
+    Collections Sort en arrayList 
+    sort
+    reverse
+    suffle
+*/
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
