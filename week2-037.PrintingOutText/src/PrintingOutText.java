@@ -1,3 +1,6 @@
+/*
+    Temas: metodos
+*/
 public class PrintingOutText {
 
     public static void printText() {
