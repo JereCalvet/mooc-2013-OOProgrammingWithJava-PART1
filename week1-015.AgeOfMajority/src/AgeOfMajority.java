@@ -1,4 +1,6 @@
-
+/*
+Temas: condicionales 
+*/
 import java.util.Scanner;
 
 public class AgeOfMajority {
