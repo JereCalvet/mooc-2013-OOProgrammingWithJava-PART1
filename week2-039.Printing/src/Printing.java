@@ -1,4 +1,8 @@
-
+/*
+    Temas: 
+    *metodos con parametros
+    *metodos llamando otros metodos
+*/
 public class Printing {
 
     public static void printStars(int amount) {

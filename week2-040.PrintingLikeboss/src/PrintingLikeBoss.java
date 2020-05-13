@@ -1,4 +1,8 @@
-
+/*
+Temas:
+*metodos con parametros
+    *metodos llamando otros metodos
+*/
 public class PrintingLikeBoss {
 
     // copy or rewrite the method of Assignment 39.1 here

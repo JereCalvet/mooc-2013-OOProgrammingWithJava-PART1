@@ -1,4 +1,8 @@
-
+/*
+Temas:
+    *metodos con parametros
+    *metodos llamando otros metodos
+*/
 import hangman.Hangman;
 import java.util.Scanner;
 

@@ -1,4 +1,8 @@
-
+/*
+Temas:
+    *metodos con parametros
+    *metodos llamando otros metodos
+*/
 import java.util.Random;
 import java.util.Scanner;
 
