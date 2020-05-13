@@ -1,4 +1,9 @@
-
+/*
+Temas:
+    *objetos
+    *metodos de arrayList
+    *for-each
+*/
 import java.util.ArrayList;
 import java.util.Scanner;
 
