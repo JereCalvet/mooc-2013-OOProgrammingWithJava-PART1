@@ -1,4 +1,6 @@
-
+/*
+    Temas: metodos
+*/
 import java.util.Scanner;
 
 public class ManyPrints {
