@@ -1,4 +1,6 @@
-
+/*
+Temas: operadores logicos
+*/
 import java.util.Scanner;
 
 public class AgeCheck {
