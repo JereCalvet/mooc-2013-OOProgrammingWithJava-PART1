@@ -1,4 +1,6 @@
-
+/*
+Tema: clases  
+*/
 public class Accounts {
     public static void transfer(Account from, Account to, double howMuch) {
         from.withdrawal(howMuch);
