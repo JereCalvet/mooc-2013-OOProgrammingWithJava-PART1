@@ -1,4 +1,8 @@
-
+/*
+Tema: Clases:
+            *metodos
+            *toString
+*/
 import java.util.Scanner;
 
 public class Main {
