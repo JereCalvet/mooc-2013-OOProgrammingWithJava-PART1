@@ -1,3 +1,6 @@
+/*
+Tema: Integers en ArrayList 
+*/
 import java.util.ArrayList;
 
 public class SumOfNumbers {
