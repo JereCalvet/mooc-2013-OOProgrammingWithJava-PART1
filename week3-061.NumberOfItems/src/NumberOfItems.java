@@ -1,3 +1,6 @@
+/*
+Tema: ArrayList como parametro de un metodo 
+*/
 import java.util.ArrayList;
 
 public class NumberOfItems {

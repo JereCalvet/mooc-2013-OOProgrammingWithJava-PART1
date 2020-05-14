@@ -1,3 +1,7 @@
+/*
+Tema: ArrayList como parametro de un metodo 
+*/
+
 import java.util.ArrayList;
 import java.util.Collections;
 
