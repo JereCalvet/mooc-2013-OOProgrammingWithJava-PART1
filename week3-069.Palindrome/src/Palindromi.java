@@ -1,3 +1,8 @@
+/*
+Tema: Metodos que devuelven boolean 
+      condicionales con boolean
+      utilizacion de return en metodos
+*/
 import java.util.Scanner;
 
 public class Palindromi {
