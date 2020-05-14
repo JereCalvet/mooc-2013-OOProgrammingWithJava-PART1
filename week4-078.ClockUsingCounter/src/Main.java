@@ -1,4 +1,9 @@
-
+/*
+Tema: Clases:
+            *setter
+            *intro this. (parametros con el mismo nombre que variables
+            *format decimals printing float
+*/
 import java.util.Scanner;
 
 public class Main {
