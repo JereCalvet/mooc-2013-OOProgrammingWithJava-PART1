@@ -1,4 +1,8 @@
-
+/*
+Tema: Ejercicios de clases:
+            *metodos
+            *intro getters
+*/
 public class Main {
 
     public static void main(String[] args) {

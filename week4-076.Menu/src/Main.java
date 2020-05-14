@@ -1,3 +1,8 @@
+/*
+Tema: Ejercicios de clases:
+            *metodos
+            *intro getters
+*/
 import java.util.ArrayList;
 
 public class Main {
