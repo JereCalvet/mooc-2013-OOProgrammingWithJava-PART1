@@ -1,4 +1,7 @@
-
+/*
+Tema: Clases:
+            *metodo llamando otro metodo de la misma clase
+*/
 import java.util.Scanner;
 
 public class Main {
