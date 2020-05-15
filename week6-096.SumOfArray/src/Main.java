@@ -1,4 +1,8 @@
-
+/*
+Tema: *Intro Arrays 
+      *Iteraccion for i
+      *Array como parametro
+*/
 public class Main {
 
     public static void main(String[] args) {
