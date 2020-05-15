@@ -1,4 +1,6 @@
-
+/*
+Tema: Objetos en una lista
+*/
 import java.util.ArrayList;
 import java.util.Scanner;
 
