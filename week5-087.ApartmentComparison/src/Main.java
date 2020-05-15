@@ -1,4 +1,6 @@
-
+/*
+Temas: Otro objeto del mismo tipo como parametro
+*/
 public class Main {
 
     public static void main(String[] args) {
