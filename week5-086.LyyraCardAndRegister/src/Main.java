@@ -1,4 +1,6 @@
-
+/*
+Temas: objetos como parametros y ejercicios
+*/
 public class Main {
     public static void main(String[] args) {
         CashRegister unicafeExactum = new CashRegister();
