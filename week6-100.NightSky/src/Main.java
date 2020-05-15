@@ -1,4 +1,7 @@
-
+/*
+Tema: *Nested loops
+      *Variables dentro y fuera de los bucles
+*/
 import java.util.Random;
 
 public class Main {

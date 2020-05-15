@@ -1,4 +1,7 @@
-
+/*
+Tema: *Nested loops
+      *Variables dentro y fuera de los bucles
+*/
 public class Main {
 
     public static void main(String[] args) {
